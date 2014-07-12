@@ -48,7 +48,7 @@ var DEMOS = [
     "id": "ionCheckbox-simple",
     "name": "simple",
     "component": "ionCheckbox",
-    "href": "/ionCheckbox/simple/"
+    "href": "/ionic-demo/ionCheckbox/simple/"
   },
   {
     "files": {
@@ -113,7 +113,7 @@ var DEMOS = [
     "id": "collectionRepeat-contacts",
     "name": "contacts",
     "component": "collectionRepeat",
-    "href": "/collectionRepeat/contacts/"
+    "href": "/ionic-demo/collectionRepeat/contacts/"
   },
   {
     "files": {
@@ -164,7 +164,7 @@ var DEMOS = [
     "id": "ionFooterBar-simple",
     "name": "simple",
     "component": "ionFooterBar",
-    "href": "/ionFooterBar/simple/"
+    "href": "/ionic-demo/ionFooterBar/simple/"
   },
   {
     "files": {
@@ -215,7 +215,7 @@ var DEMOS = [
     "id": "ionHeaderBar-simple",
     "name": "simple",
     "component": "ionHeaderBar",
-    "href": "/ionHeaderBar/simple/"
+    "href": "/ionic-demo/ionHeaderBar/simple/"
   },
   {
     "files": {
@@ -266,7 +266,7 @@ var DEMOS = [
     "id": "ionInfiniteScroll-forever",
     "name": "forever",
     "component": "ionInfiniteScroll",
-    "href": "/ionInfiniteScroll/forever/"
+    "href": "/ionic-demo/ionInfiniteScroll/forever/"
   },
   {
     "files": {
@@ -331,7 +331,7 @@ var DEMOS = [
     "id": "ionList-animated",
     "name": "animated",
     "component": "ionList",
-    "href": "/ionList/animated/"
+    "href": "/ionic-demo/ionList/animated/"
   },
   {
     "files": {
@@ -382,7 +382,7 @@ var DEMOS = [
     "id": "ionList-reorderDelete",
     "name": "reorderDelete",
     "component": "ionList",
-    "href": "/ionList/reorderDelete/"
+    "href": "/ionic-demo/ionList/reorderDelete/"
   },
   {
     "files": {
@@ -433,7 +433,7 @@ var DEMOS = [
     "id": "ionRadio-chooseOne",
     "name": "chooseOne",
     "component": "ionRadio",
-    "href": "/ionRadio/chooseOne/"
+    "href": "/ionic-demo/ionRadio/chooseOne/"
   },
   {
     "files": {
@@ -484,7 +484,7 @@ var DEMOS = [
     "id": "ionRefresher-refreshList",
     "name": "refreshList",
     "component": "ionRefresher",
-    "href": "/ionRefresher/refreshList/"
+    "href": "/ionic-demo/ionRefresher/refreshList/"
   },
   {
     "files": {
@@ -535,7 +535,7 @@ var DEMOS = [
     "id": "ionSideMenus-navWithMenu",
     "name": "navWithMenu",
     "component": "ionSideMenus",
-    "href": "/ionSideMenus/navWithMenu/"
+    "href": "/ionic-demo/ionSideMenus/navWithMenu/"
   },
   {
     "files": {
@@ -600,7 +600,7 @@ var DEMOS = [
     "id": "ionSideMenus-simple",
     "name": "simple",
     "component": "ionSideMenus",
-    "href": "/ionSideMenus/simple/"
+    "href": "/ionic-demo/ionSideMenus/simple/"
   },
   {
     "files": {
@@ -665,7 +665,7 @@ var DEMOS = [
     "id": "ionSlideBox-appIntro",
     "name": "appIntro",
     "component": "ionSlideBox",
-    "href": "/ionSlideBox/appIntro/"
+    "href": "/ionic-demo/ionSlideBox/appIntro/"
   },
   {
     "files": {
@@ -716,7 +716,7 @@ var DEMOS = [
     "id": "ionTabs-tabsAndNav",
     "name": "tabsAndNav",
     "component": "ionTabs",
-    "href": "/ionTabs/tabsAndNav/"
+    "href": "/ionic-demo/ionTabs/tabsAndNav/"
   },
   {
     "files": {
@@ -767,7 +767,7 @@ var DEMOS = [
     "id": "itemFloatingLabel-floatingLabel",
     "name": "floatingLabel",
     "component": "itemFloatingLabel",
-    "href": "/itemFloatingLabel/floatingLabel/"
+    "href": "/ionic-demo/itemFloatingLabel/floatingLabel/"
   },
   {
     "files": {
@@ -818,7 +818,7 @@ var DEMOS = [
     "id": "$ionicActionSheet-takeAction",
     "name": "takeAction",
     "component": "$ionicActionSheet",
-    "href": "/$ionicActionSheet/takeAction/"
+    "href": "/ionic-demo/$ionicActionSheet/takeAction/"
   },
   {
     "files": {
@@ -869,7 +869,7 @@ var DEMOS = [
     "id": "$ionicLoading-complete",
     "name": "complete",
     "component": "$ionicLoading",
-    "href": "/$ionicLoading/complete/"
+    "href": "/ionic-demo/$ionicLoading/complete/"
   },
   {
     "files": {
@@ -920,6 +920,6 @@ var DEMOS = [
     "id": "$ionicPopup-popping",
     "name": "popping",
     "component": "$ionicPopup",
-    "href": "/$ionicPopup/popping/"
+    "href": "/ionic-demo/$ionicPopup/popping/"
   }
 ];
